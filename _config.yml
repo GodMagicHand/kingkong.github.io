@@ -4,7 +4,7 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://kingkong.github.io"  
+url: "http://GodMagicHand.github.io"  
 
 # About/contact
 owner: 
@@ -18,7 +18,7 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: 
+github_username: GodMagicHand
 weibo_username: 
 facebook_username:
 zhihu_username: kingkong
